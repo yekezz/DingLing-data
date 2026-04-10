@@ -4,7 +4,7 @@
     {
       "id": "210d9a7c-fcad-4180-b314-1427a9a9ae9b",
       "title": "测试1",
-      "description": "手动开发接口",
+      "description": "",
       "date": "2026-04-10",
       "timeRange": {
         "start": "09:00",
@@ -14,7 +14,7 @@
       "status": "done",
       "subTasks": [],
       "createdAt": "2026-04-10T08:14:29.163Z",
-      "updatedAt": "2026-04-10T08:17:57.966Z",
+      "updatedAt": "2026-04-10T08:18:14.146Z",
       "originDate": null
     }
   ]

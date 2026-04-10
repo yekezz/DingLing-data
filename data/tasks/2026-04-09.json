@@ -1,18 +1,4 @@
 {
   "date": "2026-04-09",
-  "tasks": [
-    {
-      "id": "89c64eaf-25e2-4fbb-aa3b-decb186d017e",
-      "title": "测试2",
-      "description": "",
-      "date": "2026-04-09",
-      "timeRange": null,
-      "priority": "medium",
-      "status": "expired",
-      "subTasks": [],
-      "createdAt": "2026-04-10T08:48:12.454Z",
-      "updatedAt": "2026-04-10T08:48:15.699Z",
-      "originDate": null
-    }
-  ]
+  "tasks": []
 }

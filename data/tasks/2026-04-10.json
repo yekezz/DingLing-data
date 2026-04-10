@@ -11,10 +11,10 @@
         "end": "10:00"
       },
       "priority": "high",
-      "status": "expired",
+      "status": "done",
       "subTasks": [],
       "createdAt": "2026-04-10T08:14:29.163Z",
-      "updatedAt": "2026-04-10T08:14:29.173Z",
+      "updatedAt": "2026-04-10T08:17:57.966Z",
       "originDate": null
     }
   ]

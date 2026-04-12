@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-12",
+  "tasks": [
+    {
+      "id": "fb654595-0bd2-4614-8df6-6bf87e016651",
+      "title": "测试2",
+      "description": "",
+      "date": "2026-04-12",
+      "timeRange": null,
+      "priority": "medium",
+      "status": "todo",
+      "subTasks": [],
+      "createdAt": "2026-04-12T09:55:38.423Z",
+      "updatedAt": "2026-04-12T09:55:38.423Z",
+      "originDate": null
+    }
+  ]
+}

@@ -37,9 +37,17 @@
       "timeRange": null,
       "priority": "medium",
       "status": "todo",
-      "subTasks": [],
+      "subTasks": [
+        {
+          "id": "6fe39d97-d283-4984-9840-b1145ec2dcc1",
+          "title": "提额入口",
+          "description": "",
+          "timeRange": null,
+          "status": "todo"
+        }
+      ],
       "createdAt": "2026-04-13T01:18:05.523Z",
-      "updatedAt": "2026-04-13T01:18:05.523Z",
+      "updatedAt": "2026-04-13T01:18:19.623Z",
       "originDate": null
     }
   ]

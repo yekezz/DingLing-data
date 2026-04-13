@@ -7,7 +7,7 @@
       "description": "",
       "date": "2026-04-13",
       "timeRange": null,
-      "priority": "low",
+      "priority": "medium",
       "status": "todo",
       "subTasks": [
         {
@@ -22,11 +22,11 @@
           "title": "合并代码、发包",
           "description": "",
           "timeRange": null,
-          "status": "todo"
+          "status": "done"
         }
       ],
       "createdAt": "2026-04-13T01:16:20.854Z",
-      "updatedAt": "2026-04-13T05:43:19.484Z",
+      "updatedAt": "2026-04-13T06:20:03.338Z",
       "originDate": null
     },
     {

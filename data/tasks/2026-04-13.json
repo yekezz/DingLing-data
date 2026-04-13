@@ -15,7 +15,7 @@
           "title": "自测",
           "description": "",
           "timeRange": null,
-          "status": "todo"
+          "status": "done"
         },
         {
           "id": "f0f94bf0-424d-4f99-80be-27287d593b40",
@@ -26,7 +26,7 @@
         }
       ],
       "createdAt": "2026-04-13T01:16:20.854Z",
-      "updatedAt": "2026-04-13T01:17:08.323Z",
+      "updatedAt": "2026-04-13T05:38:02.618Z",
       "originDate": null
     },
     {

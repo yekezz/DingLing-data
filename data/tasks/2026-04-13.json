@@ -8,7 +8,7 @@
       "date": "2026-04-13",
       "timeRange": null,
       "priority": "medium",
-      "status": "todo",
+      "status": "done",
       "subTasks": [
         {
           "id": "02e7792e-63df-4e69-9e3f-6b900860cb3d",
@@ -26,7 +26,7 @@
         }
       ],
       "createdAt": "2026-04-13T01:16:20.854Z",
-      "updatedAt": "2026-04-13T06:20:03.338Z",
+      "updatedAt": "2026-04-13T06:20:05.797Z",
       "originDate": null
     },
     {

@@ -7,7 +7,7 @@
       "description": "",
       "date": "2026-04-13",
       "timeRange": null,
-      "priority": "medium",
+      "priority": "high",
       "status": "todo",
       "subTasks": [
         {
@@ -15,7 +15,7 @@
           "title": "自测",
           "description": "",
           "timeRange": null,
-          "status": "done"
+          "status": "todo"
         },
         {
           "id": "f0f94bf0-424d-4f99-80be-27287d593b40",
@@ -26,7 +26,7 @@
         }
       ],
       "createdAt": "2026-04-13T01:16:20.854Z",
-      "updatedAt": "2026-04-13T05:38:02.618Z",
+      "updatedAt": "2026-04-13T05:41:49.400Z",
       "originDate": null
     },
     {

@@ -9,9 +9,17 @@
       "timeRange": null,
       "priority": "medium",
       "status": "todo",
-      "subTasks": [],
+      "subTasks": [
+        {
+          "id": "02e7792e-63df-4e69-9e3f-6b900860cb3d",
+          "title": "自测",
+          "description": "",
+          "timeRange": null,
+          "status": "todo"
+        }
+      ],
       "createdAt": "2026-04-13T01:16:20.854Z",
-      "updatedAt": "2026-04-13T01:16:20.854Z",
+      "updatedAt": "2026-04-13T01:16:47.407Z",
       "originDate": null
     }
   ]

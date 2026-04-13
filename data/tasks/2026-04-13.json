@@ -7,8 +7,8 @@
       "description": "",
       "date": "2026-04-13",
       "timeRange": null,
-      "priority": "medium",
-      "status": "done",
+      "priority": "low",
+      "status": "expired",
       "subTasks": [
         {
           "id": "02e7792e-63df-4e69-9e3f-6b900860cb3d",
@@ -22,11 +22,11 @@
           "title": "合并代码、发包",
           "description": "",
           "timeRange": null,
-          "status": "done"
+          "status": "expired"
         }
       ],
       "createdAt": "2026-04-13T01:16:20.854Z",
-      "updatedAt": "2026-04-13T06:20:05.797Z",
+      "updatedAt": "2026-04-13T16:11:24.890Z",
       "originDate": null
     },
     {
@@ -36,25 +36,25 @@
       "date": "2026-04-13",
       "timeRange": null,
       "priority": "medium",
-      "status": "todo",
+      "status": "expired",
       "subTasks": [
         {
           "id": "6fe39d97-d283-4984-9840-b1145ec2dcc1",
           "title": "提额入口",
           "description": "",
           "timeRange": null,
-          "status": "todo"
+          "status": "expired"
         },
         {
           "id": "05ef38d5-3a50-4970-a095-02d9568b36da",
           "title": "组合办单入口ui",
           "description": "",
           "timeRange": null,
-          "status": "todo"
+          "status": "expired"
         }
       ],
       "createdAt": "2026-04-13T01:18:05.523Z",
-      "updatedAt": "2026-04-13T01:24:50.970Z",
+      "updatedAt": "2026-04-13T16:11:24.890Z",
       "originDate": null
     }
   ]
